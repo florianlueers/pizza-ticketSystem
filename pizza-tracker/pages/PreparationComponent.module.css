@@ -1,0 +1,16 @@
+.PreparationComponent {
+    background-color: lightgrey;
+    margin-left: 50px;
+    width: 1000px;
+    height: 900px;
+    border-radius: 25px;
+}
+
+.Components {
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+
+.Components p {
+    font-size: large;
+}

@@ -1,0 +1,8 @@
+.Home {
+    display: flex;
+    font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
+        'Arial', sans-serif;
+    padding: 10px 15px;
+    max-width: 1400px;
+    margin: auto;
+}

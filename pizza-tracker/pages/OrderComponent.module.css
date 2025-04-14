@@ -1,0 +1,16 @@
+.OrderComponent {
+    width: 300px;
+    height: 900px;
+    padding-left: 50px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.Image {
+    margin-top: auto; /* Das Bild zum unteren Rand des Containers bewegen */
+}
+
+.hr {
+    opacity: 0.3;
+}
